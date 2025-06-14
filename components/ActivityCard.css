@@ -2,9 +2,9 @@
 .participants-section {
   margin-top: 1.5em;
   padding: 1em;
-  background: #f8f9fa;
+  background: #f4f8fb;
   border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+  box-shadow: 0 1px 3px rgba(44, 62, 80, 0.05);
 }
 
 .participants-section h4 {
